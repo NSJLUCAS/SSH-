@@ -2,6 +2,6 @@
 
 ## 安装
 ```bash
-wget https://raw.githubusercontent.com/你的用户名/ssh-security-toolbox/main/installer.sh
+wget https://raw.githubusercontent.com/NSJLUCAS/ssh-security-toolbox/main/installer.sh
 chmod +x installer.sh
 sudo ./installer.sh
