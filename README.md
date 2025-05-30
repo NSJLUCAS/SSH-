@@ -7,5 +7,5 @@ chmod +x installer.sh
 sudo ./installer.sh
 
 #卸载
-rm -f /usr/local/bin/n && sed -i '\|/usr/local/bin|d' /etc/profile && source /etc/profile && echo "✅ SSH 安全工具箱已卸载"
+rm -f /usr/local/bin/n && sed -i '\|/usr/local/bin|d' /etc/profile && source /etc/profile && echo 
 
